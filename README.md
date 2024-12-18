@@ -24,6 +24,6 @@ Rarity Magic
 1) Download the filter
 2) Paste the `WitchStr.filter` file into the following folder:
    - Windows: `%userprofile%\Documents\My Games\Path of Exile 2`
-   - Linux: `steamapps/compatdata/2694490/pfx/drive_c/users/steamuser/My Documents/My Games/Path of Exile 2`
+   - Linux: `steamapps/compatdata/2694490/pfx/drive_c/users/steamuser/My Documents/My Games/Path of Exile 2`<br />
   You can also find the folder from In-game by going Escape -> Options -> Game -> Filters and clicking the folder icon.
 3) Select the filter In-game: Escape -> Options -> Game -> Filters -> Select the filter from the dropdown box.
