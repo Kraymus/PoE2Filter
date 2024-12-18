@@ -1,6 +1,6 @@
 ## Path of Exile 2 Filter
 
-Most of this filter is directly copied from [Neversinks PoE 2 loot filter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter)
+Most of this filter is directly copied from [Neversinks PoE 2 loot filter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter)<br />
 Support him by going to his [Patreon](https://www.patreon.com/Neversink)
 
 Additions that I have made to it:
@@ -14,7 +14,16 @@ Additions that I have made to it:
 - Red border on items that can be salvaged, so they have sockets or quality.
 - Any armour that was missed in the attribute based listing of basetypes has a bright yellow background.
 
-Both the armour and weapon selection is at the bottom of the file, so scroll all the way down to edit the filter to fit your build.
-If you still need magic items to disenchant then just add this to the start of the basetype section:
-Show
+Both the armour and weapon selection is at the bottom of the file, so scroll all the way down to edit the filter to fit your build.<br />
+If you still need magic items to disenchant then just add this to the start of the basetype section:<br />
+Show<br />
 Rarity Magic
+
+## HOW TO INSTALL
+
+1) Download the filter
+2) Paste the `WitchStr.filter` file into the following folder:
+   - Windows: `%userprofile%\Documents\My Games\Path of Exile 2`
+   - Linux: `steamapps/compatdata/2694490/pfx/drive_c/users/steamuser/My Documents/My Games/Path of Exile 2`
+  You can also find the folder from In-game by going Escape -> Options -> Game -> Filters and clicking the folder icon.
+3) Select the filter In-game: Escape -> Options -> Game -> Filters -> Select the filter from the dropdown box.
