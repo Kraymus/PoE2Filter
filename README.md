@@ -1,4 +1,4 @@
-## Path of Exile 2 Filter
+## Path of Exile 2 Early Access Filter
 
 Most of this filter is directly copied from [Neversinks PoE 2 loot filter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter)<br />
 Support him by going to his [Patreon](https://www.patreon.com/Neversink)
