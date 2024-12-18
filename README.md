@@ -16,8 +16,10 @@ Additions that I have made to it:
 
 Both the armour and weapon selection is at the bottom of the file, so scroll all the way down to edit the filter to fit your build.<br />
 If you still need magic items to disenchant then just add this to the start of the basetype section:<br />
-Show<br />
-Rarity Magic
+```
+Show
+   Rarity Magic
+```
 
 ## HOW TO INSTALL
 
